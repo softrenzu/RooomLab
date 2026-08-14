@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rooom-lab"
+version = "0.1.0"
+description = "Reproducible reactive Python cell engine with dependency analysis, deterministic execution order, stale-cell propagation, and serializable notebooks."
+readme = "README.md"
+requires-python = ">=3.11"
+license = {file = "LICENSE"}
+authors = [{name = "ROOOMTECH"}]
+dependencies = []
+
+[tool.setuptools]
+packages = ["rooom_lab"]
