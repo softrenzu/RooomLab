@@ -1,5 +1,7 @@
 # RooomLab
 
+> **Explore the full ROOOMTECH AI Stack:** [ROOOMTECH AI Stack](./ROOOMTECH_AI_STACK.md) — RAG, agents, vector search, LLM routing, inference, identity, observability, developer tooling and more.
+
 Version: `0.1.0`
 
 Reproducible reactive Python cell engine with dependency analysis, deterministic execution order, stale-cell propagation, and serializable notebooks.
